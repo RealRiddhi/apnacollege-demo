@@ -1,4 +1,5 @@
 # apnacollege-demo
 this is my demo repo.
 <br>
-author: Riddhi Sharma
+author: Riddhi Sharma(realriddhi)
+
